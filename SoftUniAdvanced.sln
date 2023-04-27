@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello Soft Uni", "Hello Sof
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers", "Numbers\Numbers.csproj", "{1FCB4875-9E88-4846-BB5D-36416C04D652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{4CE7BFFD-977C-4C08-9A6A-755575D4F539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{4CE7BFFD-977C-4C08-9A6A-755575D4F539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{356DC4B8-F391-4643-9085-B3059C5F2F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4CE7BFFD-977C-4C08-9A6A-755575D4F539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CE7BFFD-977C-4C08-9A6A-755575D4F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CE7BFFD-977C-4C08-9A6A-755575D4F539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356DC4B8-F391-4643-9085-B3059C5F2F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356DC4B8-F391-4643-9085-B3059C5F2F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356DC4B8-F391-4643-9085-B3059C5F2F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356DC4B8-F391-4643-9085-B3059C5F2F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
